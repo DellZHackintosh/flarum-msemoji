@@ -1,0 +1,3 @@
+/*! Copyright Twitter Inc. and other contributors. Licensed under MIT */
+
+/*! msemoji is modified from twemoji by DaleZ(DellZHackintosh). Licensed inherits Twemoji. */

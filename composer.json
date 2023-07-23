@@ -1,0 +1,37 @@
+{
+    "name": "DaleZ/flarum-msemoji",
+    "description": "Convert text and unicode emoji into MSemoji.",
+    "type": "flarum-extension",
+    "keywords": [
+        "formatting"
+    ],
+    "license": "MIT",
+    "support": {
+        "issues": "https://github.com/DellZHackintosh/flarum-msemoji/issues",
+        "source": "https://github.com/DellZHackintosh/flarum-msemoji"
+    },
+    "require": {
+        "flarum/core": "^1.4"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-main": "1.x-dev"
+        },
+        "flarum-extension": {
+            "title": "MSemoji",
+            "category": "feature",
+            "icon": {
+                "image": "icon.svg",
+                "backgroundColor": "#ffb02e"
+            }
+        }
+    },
+    "repositories": [
+        {
+            "type": "path",
+            "url": "../../*/*"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
