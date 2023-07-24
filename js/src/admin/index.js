@@ -1,7 +1,7 @@
 import app from 'flarum/app';
 
-app.initializers.add('DaleZ-msemoji', () => {
-    app.extensionData.for('DaleZ-msemoji')
+app.initializers.add('dalez-msemoji', () => {
+    app.extensionData.for('dalez-msemoji')
     .registerSetting(
         {
             setting: 'flarum-msemoji.base',

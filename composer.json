@@ -1,5 +1,5 @@
 {
-    "name": "DaleZ/flarum-msemoji",
+    "name": "dalez/flarum-msemoji",
     "description": "Convert text and unicode emoji into MSemoji.",
     "type": "flarum-extension",
     "keywords": [
